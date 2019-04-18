@@ -1,0 +1,10 @@
+C:\Users\Milica\source\repos\OsvezivacVazduhaApp\OsvezivacVazduhaApp\bin\Debug\OsvezivacVazduhaApp.exe.config
+C:\Users\Milica\source\repos\OsvezivacVazduhaApp\OsvezivacVazduhaApp\bin\Debug\OsvezivacVazduhaApp.exe
+C:\Users\Milica\source\repos\OsvezivacVazduhaApp\OsvezivacVazduhaApp\bin\Debug\OsvezivacVazduhaApp.pdb
+C:\Users\Milica\source\repos\OsvezivacVazduhaApp\OsvezivacVazduhaApp\obj\Debug\OsvezivacVazduhaApp.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\OsvezivacVazduhaApp\OsvezivacVazduhaApp\obj\Debug\OsvezivacVazduhaApp.Form1.resources
+C:\Users\Milica\source\repos\OsvezivacVazduhaApp\OsvezivacVazduhaApp\obj\Debug\OsvezivacVazduhaApp.Properties.Resources.resources
+C:\Users\Milica\source\repos\OsvezivacVazduhaApp\OsvezivacVazduhaApp\obj\Debug\OsvezivacVazduhaApp.csproj.GenerateResource.cache
+C:\Users\Milica\source\repos\OsvezivacVazduhaApp\OsvezivacVazduhaApp\obj\Debug\OsvezivacVazduhaApp.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\OsvezivacVazduhaApp\OsvezivacVazduhaApp\obj\Debug\OsvezivacVazduhaApp.exe
+C:\Users\Milica\source\repos\OsvezivacVazduhaApp\OsvezivacVazduhaApp\obj\Debug\OsvezivacVazduhaApp.pdb
